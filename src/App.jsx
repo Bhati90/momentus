@@ -8,7 +8,7 @@ import Contact from "./components/Contact/Contact";
 import GetStarted from "./components/getStarted/GetStarted";
 import Footer from "./components/Footer/Footer";
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
-import About from "./components/header/About/about";
+import About from "./components/header/About/About";
 // import About from "./components/header/About Us/About";
 // import About from "./components/header/About Us/About";
 
